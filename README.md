@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Julian</a>
-<h3 align="center">I'm 20 years old study it at 42 Heilbronn and work part-time as a operator for festivals</h3>
+<h3 align="center">I'm 20 years old, study IT at 42 Heilbronn and work part-time as a operator for festivals</h3>
 
 ### Connect with me
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KY9J4A7d4J)
