@@ -1,10 +1,18 @@
 <h1 align="center">Hi, I'm Julian</a>
 <h3 align="center">I'm 21 years old, study IT at 42 Heilbronn and work part-time as a operator for festivals</h3>
 
+<div align="center">
+
+  ---
+  
 ### Connect with me
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KY9J4A7d4J)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/julian-mühlberger-6620ab2a1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moewenmann.jpg)
+
+---
+
+</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
